@@ -32,28 +32,28 @@
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1539097679041,
             "changeTime": 1539097679041,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1539097270637,
+            "changeTime": 1539097270637,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1539099707950,
-            "changeTime": 1539099707950,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1539097351659,
+            "changeTime": 1539097351659,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1539099786605,
-            "changeTime": 1539099786605,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 266,
             "modifiedTime": 1539097679037,
             "changeTime": 1539097679037,
-            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4564,
             "modifiedTime": 1539097679042,
             "changeTime": 1539097679042,
-            "contentHash": "1e0a15b915295000b46c673d832a7d51189a13d6",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1e0a15b915295000b46c673d832a7d51189a13d6"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4900,
             "modifiedTime": 1539097679047,
             "changeTime": 1539097679047,
-            "contentHash": "39377cb0b4854509f6d7ea5d33271aafebc10c8f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "39377cb0b4854509f6d7ea5d33271aafebc10c8f"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17964,
             "modifiedTime": 1539097679061,
             "changeTime": 1539097679061,
-            "contentHash": "271978e74cacbdec99664b4eb58d2fe0c70e0d6d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "271978e74cacbdec99664b4eb58d2fe0c70e0d6d"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4560,
             "modifiedTime": 1539097679064,
             "changeTime": 1539097679064,
-            "contentHash": "756bdedcbd5ea8970352e5f5b46bba0257e7a483",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "756bdedcbd5ea8970352e5f5b46bba0257e7a483"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1539097679037,
             "changeTime": 1539097679037,
-            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b"
         }
     ],
     [
         "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1539097679064,
             "changeTime": 1539097679064,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1539099707954,
-            "changeTime": 1539099707954,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1539099129914,
-            "changeTime": 1539099129914,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1539099707954,
-            "changeTime": 1539099707954,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 338,
-            "modifiedTime": 1539099736921,
-            "changeTime": 1539099736921,
-            "contentHash": "5f850e7f50fd1b0e3ea31f5dee739db02f882336"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1539099707951,
-            "changeTime": 1539099707951,
-            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 101,
-            "modifiedTime": 1539099764978,
-            "changeTime": 1539099764978,
-            "contentHash": "657f234a9b7dab2a4f526c3ac3fd3bad6307c5ab"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1539099707954,
-            "changeTime": 1539099707954,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1539099707953,
-            "changeTime": 1539099707953,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1539099756869,
-            "changeTime": 1539099756869,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1539099707952,
-            "changeTime": 1539099707952,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1539099707953,
-            "changeTime": 1539099707953,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1539099129913,
-            "changeTime": 1539099129913,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 121,
-            "modifiedTime": 1539099688033,
-            "changeTime": 1539099688033,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1539099129910,
-            "changeTime": 1539099129910,
-            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 159,
-            "modifiedTime": 1539099701613,
-            "changeTime": 1539099701613,
-            "contentHash": "6070f87559dbcb2bf5c7ee058fa2dfebc31d5134"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1539099129914,
-            "changeTime": 1539099129914,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1539099129913,
-            "changeTime": 1539099129913,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1539099129911,
-            "changeTime": 1539099129911,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1539099129911,
-            "changeTime": 1539099129911,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/shanekenyon/Documents/git/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1539099129912,
-            "changeTime": 1539099129912,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
